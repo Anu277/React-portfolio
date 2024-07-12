@@ -78,7 +78,7 @@ function App() {
               <a href='https://x.com/Anu_b_27' target='_blank'>
                 <XIcon  sx={{ color: lightBlue[50], fontSize: 30 }} />
               </a>
-              <a href='https://drive.google.com/file/d/1iUPFG4jfzz1wPXB6lADynywn56Jorjy_/view?usp=sharing'><button className='type="button" class="text-black bg-black hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"'>Resume</button></a>
+              <a href='https://drive.google.com/file/d/1iUPFG4jfzz1wPXB6lADynywn56Jorjy_/view?usp=sharing'><button type="button" className="text-black bg-black hover:bg-gray-900 hover:text-white focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2.5 me-2 mb-2 dark:bg-white dark:hover:bg-zinc-800 dark:focus:ring-gray-900 dark:border-gray-100 hover:border-gray-100">Resume</button></a>
             </section>
           </div>
           <div className='intro-me'>
@@ -143,8 +143,8 @@ function App() {
             <div className='realtive z-20 abt-me leading-10 flex items-center md:max-w-lg' data-aos="fade-up">
               <section className='flex flex-col gap-3'>
                 <p className='font-extralight'>
-                  Hello! I’m <span className='text-amber-300 text-2xl font-semibold'>Bheemani Anurag</span> , a passionate full-stack web developer with a focus on the <span className='text-rose-600 font-bold'>MERN stack</span> for building dynamic web applications. 
-                  My expertise spans multiple programming languages, including  <span className='text-fuchsia-500 font-bold'>C, Java, JavaScript, and Python</span>. I have a solid foundation in HTML and CSS, 
+                  Hello! I’m <span className='text-amber-300 text-2xl font-semibold'>Bheemani Anurag</span> , a passionate full-stack web developer with a focus on the <span className=' font-bold'>MERN stack</span> for building dynamic web applications. 
+                  My expertise spans multiple programming languages, including  <span className=' font-bold'>C, Java, JavaScript, and Python</span>. I have a solid foundation in HTML and CSS, 
                   and I excel in creating engaging user interfaces using React for the frontend. I prefer Figma for design work and rely on 
                   VSCode for efficient project development.
                 </p>
