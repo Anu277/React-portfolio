@@ -78,6 +78,7 @@ function App() {
               <a href='https://x.com/Anu_b_27' target='_blank'>
                 <XIcon  sx={{ color: lightBlue[50], fontSize: 30 }} />
               </a>
+              <a href='https://drive.google.com/file/d/1iUPFG4jfzz1wPXB6lADynywn56Jorjy_/view?usp=sharing'><button className='type="button" class="text-black bg-black hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"'>Resume</button></a>
             </section>
           </div>
           <div className='intro-me'>
@@ -139,12 +140,19 @@ function App() {
             <div className='relative z-20 abt-head flex justify-center items-center' id='abt'>
               <h1 className='text-6xl lg:text-9xl font-thin bebas' data-aos="zoom-in">About</h1>
             </div>
-            <div className='realtive z-20 abt-me leading-10 flex items-center md:max-w-sm' data-aos="fade-up">
-              <p>
-                Hello! My name is <strong>Bheemani Anurag</strong>, and I am a dedicated full-stack web developer.I learned how to use the MERN stack for web development. I am well-versed in the programming languages C, Java, and Javascript, as well as Python.Created html and CSS projects.I am more skilled in developing web applications using the React framework for the frontend.
-                Figma is also my preferred design software over AdobeXD, and I use VSCode for project development.<br />My eagerness to keep up with cutting-edge technology.
-                <q>I am skilled at problem solving and logical reasoning.</q>
-              </p>
+            <div className='realtive z-20 abt-me leading-10 flex items-center md:max-w-lg' data-aos="fade-up">
+              <section className='flex flex-col gap-3'>
+                <p className='font-extralight'>
+                  Hello! I’m <span className='text-amber-300 text-2xl font-semibold'>Bheemani Anurag</span> , a passionate full-stack web developer with a focus on the <span className='text-rose-600 font-bold'>MERN stack</span> for building dynamic web applications. 
+                  My expertise spans multiple programming languages, including  <span className='text-fuchsia-500 font-bold'>C, Java, JavaScript, and Python</span>. I have a solid foundation in HTML and CSS, 
+                  and I excel in creating engaging user interfaces using React for the frontend. I prefer Figma for design work and rely on 
+                  VSCode for efficient project development.
+                </p>
+                <p className='m-t-2 font-extralight'>
+                  My enthusiasm for staying at the forefront of technology drives me to continually learn and adapt. I am adept at problem-solving and 
+                  logical reasoning, which allows me to tackle complex challenges effectively.
+                </p>
+              </section>
             </div>
           </div>
         </div>
@@ -432,7 +440,7 @@ function App() {
                     </p>
                   </div>
                   <div class="px-6 pt-4 pb-2">
-                    {/* <a href='https://github.com/Anu277/Holodoc' target='_blank'><span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Github </span></a> */}
+                    <a href='https://github.com/Anu277/react-aakriti' target='_blank'><span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Github </span></a>
                     <a href='https://aakriti.club/' target='_blank'><span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Site </span></a>
                   </div>
                 </div>
