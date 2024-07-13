@@ -34,3 +34,6 @@ html{
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
 }
+.text{
+  -webkit-text-stroke: #101010;
+}
