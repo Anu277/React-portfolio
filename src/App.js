@@ -80,7 +80,7 @@ function App() {
               <a href='https://x.com/Anu_b_27' target='_blank'>
                 <XIcon sx={{ color: lightBlue[50], fontSize: 30 }} />
               </a>
-              <a href='https://drive.google.com/file/d/1iUPFG4jfzz1wPXB6lADynywn56Jorjy_/view?usp=sharing' target='_blank'><button type="button" className=" text-black hover:text-white bg-white hover:bg-zinc-900 p-2 rounded-full border-2 border-zinc-100">Resume</button></a>
+              <a href='https://drive.google.com/file/d/1Aes3N4_LI0weZWpw7F-kaN_0NasFjyIt/view?usp=sharing' target='_blank'><button type="button" className=" text-black hover:text-white bg-white hover:bg-zinc-900 p-2 rounded-full border-2 border-zinc-100">Resume</button></a>
             </section>
           </div>
           <div className='intro-me'>
